@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Shop all UniQueen.pk outfits including lawn cotton, satin maxi, coord sets, embroidered attire, festive kurtis and hoodie sets."
+    />
+    <title>Shop | UniQueen.pk</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="shop">
+    <header class="site-header" data-header>
+      <a class="brand" href="./index.html" aria-label="UniQueen.pk home">
+        <img class="brand-mark" src="./images/LOGO.jpeg" alt="" />
+        <span>
+          <strong>UniQueen.pk</strong>
+          <small>Wear Your Uniqueness</small>
+        </span>
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" data-nav-toggle>
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" data-nav>
+        <a href="./index.html" data-active="home">Home</a>
+        <a href="./shop.html" data-active="shop">Shop</a>
+        <a href="./about.html" data-active="about">About</a>
+        <a href="./contact.html" data-active="contact">Contact</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" data-theme-toggle>Moon</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="page-hero reveal">
+        <p class="eyebrow">Full catalog</p>
+        <h1>Shop UniQueen.pk</h1>
+        <p>Filter by category, color and size, then open a quick view or order directly on WhatsApp.</p>
+      </section>
+
+      <section class="shop-shell reveal">
+        <aside class="filters-panel" aria-label="Catalog filters">
+          <div class="filters-head">
+            <h2>Filters</h2>
+            <button class="text-link" type="button" data-reset-filters>Reset</button>
+          </div>
+          <label>
+            Category
+            <select data-filter="category">
+              <option value="all">All categories</option>
+              <option value="lawn">Lawn cotton</option>
+              <option value="maxi">Maxi</option>
+              <option value="western">Western</option>
+              <option value="embroidered">Embroidered</option>
+              <option value="festive">Festive</option>
+              <option value="hoodie">Hoodie</option>
+            </select>
+          </label>
+          <label>
+            Color
+            <select data-filter="color">
+              <option value="all">All colors</option>
+              <option value="blue">Blue</option>
+              <option value="pink">Pink</option>
+              <option value="purple">Purple</option>
+              <option value="burgundy">Burgundy</option>
+              <option value="black">Black</option>
+              <option value="white">White</option>
+              <option value="gold">Gold</option>
+              <option value="pastel">Pastel</option>
+            </select>
+          </label>
+          <label>
+            Size
+            <select data-filter="size">
+              <option value="all">All sizes</option>
+              <option value="XS">XS</option>
+              <option value="S">S</option>
+              <option value="M">M</option>
+              <option value="L">L</option>
+              <option value="XL">XL</option>
+            </select>
+          </label>
+        </aside>
+        <div>
+          <div class="catalog-count" data-catalog-count></div>
+          <div class="product-grid" data-products="all"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <strong>UniQueen.pk</strong>
+        <p>Affordable styles. DM for exact prices.</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://www.instagram.com/uniqueen.pk" target="_blank" rel="noreferrer">Instagram</a>
+        <a href="https://www.tiktok.com/@uniqueen.pk" target="_blank" rel="noreferrer">TikTok</a>
+        <a href="https://wa.me/923021328966" target="_blank" rel="noreferrer">WhatsApp</a>
+      </div>
+    </footer>
+
+    <a class="whatsapp-float" href="https://wa.me/923021328966?text=Assalamualaikum%20UniQueen.pk%2C%20I%20want%20details." target="_blank" rel="noreferrer" aria-label="Order on WhatsApp">WA</a>
+    <div class="modal" data-modal aria-hidden="true"></div>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+Save real photos with these exact filenames inside this images folder.
+
+Product images:
+1. outfit1.jpg - Blue Tulip: Korean-style summer lawn outfit, Blue-Brown or Pink-Brown.
+2. outfit2.jpg - Blossom Cargo: floral cargo style in Purple-Ivory or Burgundy-Ivory.
+3. outfit3.jpg - Luxury Black & White Satin Maxi: elegant fairy-core satin maxi.
+4. outfit4.jpg - Cute Baggy Fit: baggy jeans with kurti, Eid special look.
+5. outfit5.jpg - Western Coord Set: modern coord set in trendy colors.
+6. outfit6.jpg - Arabic Embroidered Attire: navy blue 3-piece embroidered outfit.
+7. outfit7.jpg - Summer Pastel Maxi: lightweight flowy maxi in soft pastels.
+8. outfit8.jpg - Eid Mirror Work Kurti: festive cotton kurti with mirror work.
+9. outfit9.jpg - Black Oversized Hoodie Set: cozy black oversized set with gold details.
+
+Website section images:
+10. hero-boutique.jpg - Ultra-realistic boutique hero photo with Pakistani fashion styling.
+11. about-studio.jpg - Boutique studio or rack photo with royal feminine styling.
+12. feed1.jpg - Instagram-style pastel outfit flat lay.
+13. feed2.jpg - Instagram-style mirror work or festive kurti detail.
+14. feed3.jpg - Instagram-style satin maxi detail.
+15. feed4.jpg - Instagram-style blue lawn summer outfit.
+16. feed5.jpg - Instagram-style black hoodie set with gold detail.
+17. feed6.jpg - Instagram-style navy embroidered attire detail.
